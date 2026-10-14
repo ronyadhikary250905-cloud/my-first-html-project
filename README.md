@@ -1,60 +1,19 @@
 
-# My First HTML Portfolio 🌐
+# HTML Practice Project
 
-Welcome to my personal portfolio project!
+This repository contains my first HTML practice project, created as part of my Web Development learning journey.
 
-I created this webpage using **HTML5** as part of my Web Development learning journey. This project helped me understand how to structure a webpage and present personal information using HTML.
+## What I Practiced
+- HTML document structure
+- Headings, paragraphs, and lists
+- Images and hyperlinks
+- Semantic HTML elements
+- Organizing project files and folders
 
-## 📌 About the Project
-
-This is a simple personal portfolio webpage that introduces me and showcases my education, technical skills, hobbies, and learning achievements.
-
-## ✨ Features
-
-- Personal introduction
-- Education details
-- Technical skills
-- Hobbies and interests
-- Learning achievements
-- Contact information
-- Personal profile photo
-
-## 🛠️ Technologies Used
-
+## Technologies Used
 - HTML5
 
-## 📂 Project Structure
+## Purpose
+This is a beginner-level practice project created to strengthen my HTML fundamentals. I will continue building more advanced projects as I progress in my Web Development journey.
 
-```text
-my-first-html-project/
-├── index.html
-├── README.md
-└── assets/
-    └── MY.jpeg
-```
-
-## 📚 What I Learned
-
-- Basic HTML document structure
-- Headings and paragraphs
-- Ordered and unordered lists
-- Images and hyperlinks
-- Semantic HTML elements such as `header`, `main`, `section`, and `footer`
-- Organizing files and folders in a web development project
-- Uploading project files to GitHub using Git
-
-## 🚀 Future Improvements
-
-- Add CSS to improve the design and layout
-- Use JavaScript to add interactivity
-- Make the portfolio responsive for different devices
-
-## 👨‍💻 Author
-
-**Rony Adhikary**
-
-- GitHub: [ronyadhikary250905-cloud](https://github.com/ronyadhikary250905-cloud)
-
----
-
-⭐ This is one of my first steps in my Web Development learning journey!
+**Author:** Rony Adhikary
