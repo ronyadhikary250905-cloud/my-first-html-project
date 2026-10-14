@@ -16,4 +16,11 @@ This repository contains my first HTML practice project, created as part of my W
 ## Purpose
 This is a beginner-level practice project created to strengthen my HTML fundamentals. I will continue building more advanced projects as I progress in my Web Development journey.
 
+## 🌐 Live Preview
+
+You can view my HTML practice project here:
+
+[**View My Website**]
+https://ronyadhikary250905-cloud.github.io/my-first-html-project/
+
 **Author:** Rony Adhikary
