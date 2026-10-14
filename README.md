@@ -20,7 +20,7 @@ This is a beginner-level practice project created to strengthen my HTML fundamen
 
 You can view my HTML practice project here:
 
-[**View My Website**]
+[**View My Webpage**]
 https://ronyadhikary250905-cloud.github.io/my-first-html-project/
 
 **Author:** Rony Adhikary
